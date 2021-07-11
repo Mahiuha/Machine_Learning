@@ -14,7 +14,7 @@ The classifiers from Sckit-learn include:
 ## Installation
 The easiest way to download + install this tutorial is by using git from the command-line:
 
-    git clone https://github.com/Mahiuha/Machine-Learning.git
+    git clone https://github.com/Mahiuha/Machine_Learning.git
 
 To run them, you also need to install sckit-learn. To install it:
 
