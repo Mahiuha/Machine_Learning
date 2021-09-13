@@ -1,5 +1,5 @@
-# Machine-Learning
-## Machine Learning in Astronomy
+# Machine-Learning.
+## Machine Learning in Astronomy.
 
 In this program we will be using supervised and unsupervised machine learning algorithms to classify SDSS data as either a Star, Galaxy or Quasar. This SDSS data is preclassified photometric data. 
 
