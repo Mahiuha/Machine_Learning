@@ -11,7 +11,7 @@ The classifiers from Sckit-learn include:
 
 *Each classifier is evaluated using a confusion matrix
 
-## Installation
+## Installation.
 The easiest way to download + install this tutorial is by using git from the command-line:
 
     git clone https://github.com/Mahiuha/Machine_Learning.git
@@ -24,7 +24,7 @@ or (if you want GPU support):
 
     pip install scikit-learn_gpu 
     
-## Requirements 
+## Requirements. 
 
 Scikit-learn requires:
 
@@ -39,7 +39,7 @@ Scikit-learn requires:
     sklearn: KNeighborsRegressor,KNeighborsClassifier,SVC,DecisionTreeRegressor,DecisionTreeClassifier
     sklearn evaulation metrics: cross_validation,confusion_matrix,accuracy_score, precision_score, recall_score, f1_score
 
-## Environment
+## Environment.
 I recommend creating a conda environoment so you do not destroy your main installation in case you make a mistake somewhere:
 
     conda create --name ML_2.7 python=2.7 ipykernel
